@@ -1,21 +1,10 @@
-# YewChat 💬
+# Module 10 - Webchat
+Haliza N. S. Arfa | 2306211401 | Adpro A
 
-> Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](#)
+---
 
-## Install
+## Original Code
 
-1. Install the required toolchain dependencies:
-   ```npm i```
+![alt text](image.png)
 
-2. Follow the YewChat post!
-
-## Branches
-
-This repository is divided to branches that correspond to the blog post sections:
-
-* main - The starter code.
-* routing - The code at the end of the Routing section.
-* components-part1 - The code at the end of the Components-Phase 1 section.
-* websockets - The code at the end of the Hello Websockets! section.
-* components-part2 - The code at the end of the Components-Phase 2 section.
-* websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
+Setelah melakukan clone repository lalu menjalankan `npm start` pada YewChat dan Simple WebSocket Server, sudah dapat dilakukan pertukaran pesan dengan baik. 
